@@ -1,0 +1,23 @@
+{
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "summary": "The Hitchhiker's Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. The series follows the adventures of Arthur Dent, a hapless human who is rescued by an alien just before Earth is destroyed to make way for a hyperspace bypass. Arthur travels through space with his friend Ford Prefect, and they encounter various bizarre and humorous situations along the way. The series explores themes of absurdity, existentialism, and the meaning of life.",
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "The End of the World",
+        "content": "Arthur Dent is having a bad day. First, his house is about to be demolished. Then he discovers that his best friend, Ford Prefect, is an alien. To top it all off, Earth is destroyed by a Vogon constructor fleet to make way for a hyperspace bypass. Fortunately, Ford saves Arthur by hitching a ride on a passing spaceship."
+      },
+      {
+        "chapter": 2,
+        "title": "The Hitchhiker's Guide",
+        "content": "Arthur learns about the Hitchhiker's Guide to the Galaxy, a sort of electronic book that provides information and advice for intergalactic travelers. Ford explains that the Guide is a highly respected and wildly inaccurate resource, and he shows Arthur how to use it."
+      },
+      {
+        "chapter": 3,
+        "title": "Life on the Spaceship",
+        "content": "Arthur and Ford are taken aboard the spaceship Heart of Gold, which is powered by the revolutionary Infinite Improbability Drive. Onboard, they meet Zaphod Beeblebrox, the two-headed, three-armed ex-President of the Galaxy, and Trillian, the only other human survivor of Earth's destruction. Arthur begins to adjust to his new life in space, but he still struggles to understand the strange and absurd universe around him."
+      }
+    ]
+  }
+  
